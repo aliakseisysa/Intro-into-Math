@@ -18,5 +18,6 @@ for i in range(1, 1001):
 print("Орел выпал", orel/1000)
 print("Решка выпал", reshka/1000)
 
+
 sum = orel/1000 + reshka/1000
 print(sum)
